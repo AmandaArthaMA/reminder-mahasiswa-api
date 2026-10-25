@@ -4,6 +4,15 @@ REST API untuk mengelola **jadwal kuliah, materi kuliah, dan deadline tugas kuli
 
 Dibangun dengan **Node.js + Express** dan database **PostgreSQL** (Supabase/Neon), lalu di-deploy ke **Vercel**. Dibuat untuk Tugas Akhir Learning Labs: Backend Development.
 
+## Link
+
+| Item | URL |
+|------|-----|
+| Repository GitHub | `https://github.com/USERNAME/akademik-api` *(ganti dengan link repo Anda)* |
+| Deployment (Vercel) | `https://nama-project.vercel.app` *(ganti dengan URL Vercel Anda)* |
+
+> Setelah deploy, ganti `https://nama-project.vercel.app` di dokumen ini dengan URL Vercel yang sebenarnya (Find & Replace), dan juga di variabel `baseUrl` pada koleksi Postman.
+
 ## Fitur Utama
 
 - CRUD untuk dosen, mahasiswa, mata kuliah, jadwal, materi, dan tugas.
